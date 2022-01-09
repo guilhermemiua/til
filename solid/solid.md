@@ -10,4 +10,4 @@
 
 ## Liskov Substitution Principle
 
-"Subclasses must be able to be substituted by their superclasses."
+"Any subclass object should be substitutable for the superclass object from which it is derived."
