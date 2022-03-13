@@ -7,6 +7,7 @@
 ## Open Closed Principle
 
 "Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification."
+Link: https://medium.com/@tbaragao/solid-ocp-open-closed-principle-600be0382244
 
 ## Liskov Substitution Principle
 
